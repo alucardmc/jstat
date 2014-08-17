@@ -2,7 +2,7 @@
   "name": "efp",
   "version": "1.0.0",
   "authors": [
-    "compass <efp@gmail.com>",
+    "compass <efp@gmail.com>"
   ],
   "description": "efp mixins",
   "main": "libs/efp.js",
